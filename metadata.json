@@ -1,0 +1,6 @@
+{
+  "name": "Sunstone Campus Timetable & Resource Scheduler",
+  "description": "Automated college timetable and resource scheduling system powered by Graph Coloring, Backtracking, Priority Queue, and Constraint Satisfaction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
